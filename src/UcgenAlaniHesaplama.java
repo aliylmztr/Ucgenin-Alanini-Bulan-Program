@@ -1,8 +1,3 @@
-# Ucgenin-Alanini-Bulan-Program
-Java Ucgenin Alanini Bulan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
