@@ -5,7 +5,7 @@ www.patika.dev
 
 import java.util.Scanner;
 
-public class Main {
+public class Main18 {
     public static void main(String[] args) {
         int a,b,c;
         double u,alan;
